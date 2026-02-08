@@ -53,7 +53,7 @@ player_limit: -1
 timeout: 30000
 servers:
   lobby:
-    address: localhost:25569
+    address: SpillaneMS.aternos.me:28908
     restricted: false
 server_name: EaglercraftBungee Server
 permissions:
